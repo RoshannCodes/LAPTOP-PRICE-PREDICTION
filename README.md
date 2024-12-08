@@ -1,5 +1,9 @@
 ﻿# Laptop_Price_Prediction
 
+
+INCOMPLETE!!! 
+
+
 This project aims to predict laptop prices using machine learning techniques. 
 
 ## Current Status
